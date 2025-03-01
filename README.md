@@ -14,4 +14,5 @@ This is a small app for converting between cartesian, cylindrical and spherical 
    - Make sure you enter the angle the vector makes with the z-axis (θ) and x-axis (Φ). You only need to do this when converting from cylindrical or spherical unit vector representation to other unit vector representations. This is because cylindrical and spherical unit vectors vary with the angles Φ and θ which they make with the z- and x-axes.
    
      This is not the case for cartesian unit vectors.  
-
+## 3. Click the convert button:
+   - E.g.: If you want to convert from cylindrical coordinates to the other coordinate systems, enter the coordinates in the textboxes of the cylindrical coordinates, then click "convert ρΦZ" to convert this coordinate to the other coordinate systems.
